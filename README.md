@@ -128,3 +128,12 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?Playl
 #EXTINF:-1,TOP Latino TV
 
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Crossing TV 
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+
+#EXTINF:-1,BVC
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+
+#EXTINF:-1,Crónica TV
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
