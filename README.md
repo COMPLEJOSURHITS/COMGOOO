@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1,Kanadetv
 
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
@@ -35,6 +33,6 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 
 https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 COMDISCO
+#EXTINF:-1,COMDISCO
 
 http://stream.zeno.fm/n2e4q8rpxxhvv
