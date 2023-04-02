@@ -34,3 +34,7 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 #EXTINF:-1,COM CLASIC
 
 https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 COMDISCO
+
+http://stream.zeno.fm/n2e4q8rpxxhvv
