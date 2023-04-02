@@ -126,4 +126,5 @@ https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,TOP Latino TV
+
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
