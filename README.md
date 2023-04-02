@@ -1,5 +1,8 @@
-#EXTINF:-1,EnerGeek Retro
-CANAL PRICIPAL
+#EXTM3U
+
+
+#EXTINF:-1,EnerGeek Retro (CANAL PRICIPAL) COM GO
+
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 
@@ -41,13 +44,18 @@ https://stmv1.voxtvhd.com.br/cadenavivo/cadenavivo/playlist.m3u8
 
 http://190.122.96.187:8888/http/010
 
-
 #EXTINF:-1,RED HITS PREMIUM 2 HD
 
 https://video.streamingchilenos.cl:1936/8026/8026/playlist.m3u8?WebM3UCL
-
 
 #EXTINF:-1,LIM TV
 
 https://live.limplay.ml/limtv.m3u8
 
+#EXTINF:-1,ModoRadio TV
+
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1,Kanadetv
+
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
