@@ -4,7 +4,7 @@
 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1,REDHITSPREMIUMLA
+#EXTINF:-1,COMPREMIUMHD
 
 https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
 
@@ -25,7 +25,7 @@ http://190.122.96.187:8888/http/010
 https://video.streamingchilenos.cl:1936/8026/8026/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1,REDHITSPREMIUM
-
+https://stream-linkyprojects.linky.com.co/hls/redhits.m3u8
 
 #EXTINF:-1,COMHITS 
 
@@ -95,9 +95,11 @@ https://streaming.acltv.live/hls/totalmusic.m3u8
 #EXTINF:-1,Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8?WebM3UCL
 
-#EXTINF:-1,
+#EXTINF:-1,Ver TV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1,LIM TV
+
 https://live.limplay.ml/limtv.m3u8
 
 #EXTINF:-1,ModoRadio TV
@@ -107,3 +109,21 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1,Kanadetv
 
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+
+#EXTINF:-1,Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1,Canal 5 Los Vilos
+https://oracle.streaminghd.cl:443/canal5/canal5/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1,VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Aniplustv
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
+
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
