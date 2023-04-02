@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,Kanadetv
 
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
@@ -35,4 +37,10 @@ https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,COMDISCO
 
+blob:https://imgur.com/6b71e3c9-1cbc-4396-8f76-4f5347c8bab8
+
 http://stream.zeno.fm/n2e4q8rpxxhvv
+
+#EXTINF:-1,COM GO
+
+blob:https://imgur.com/6b71e3c9-1cbc-4396-8f76-4f5347c8bab8
