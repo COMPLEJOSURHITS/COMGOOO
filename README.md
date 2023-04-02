@@ -79,8 +79,25 @@ https://vdo.miserver.pro:3102/stream/play.m3u8?WebM3UCL
 #EXTINF:-1,CMT
 https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8
 
-#EXTINF:-1,LIM TV
+#EXTINF:-1,TV Universidad
 
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?WebM3UCL
+
+#EXTINF:-1,Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,RTV40
+https://stream-linkyprojects.linky.com.co/hls/rtv40.m3u8
+
+#EXTINF:-1,Totalmusic
+https://streaming.acltv.live/hls/totalmusic.m3u8
+
+#EXTINF:-1,Coto Brus TV
+https://cloudvideo.servers10.com:8081/8030/index.m3u8?WebM3UCL
+
+#EXTINF:-1,
+
+#EXTINF:-1,LIM TV
 https://live.limplay.ml/limtv.m3u8
 
 #EXTINF:-1,ModoRadio TV
