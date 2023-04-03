@@ -5,7 +5,6 @@
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1,COMPREMIUMHD
-
 https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
 
 #EXTINF:-1,RED EVENTOS 1
