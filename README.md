@@ -57,19 +57,15 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,latinokids
-
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
 #EXTINF:-1,Latin Zone TV
-
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,TOONIZAKI
-
 https://acl-server.linky.com.co/hls/toonizaki.m3u8
 
 #EXTINF:-1,TOONIZAKI2
-
 https://hls.quibi.one/live/toonizaki.m3u8
 
 #EXTINF:-1,Cauquenesnet TV
@@ -79,7 +75,6 @@ https://vdo.miserver.pro:3102/stream/play.m3u8?WebM3UCL
 https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8
 
 #EXTINF:-1,TV Universidad
-
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?WebM3UCL
 
 #EXTINF:-1,Sexy Kpop TV
@@ -98,15 +93,12 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8?WebM3UCL
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1,LIM TV
-
 https://live.limplay.ml/limtv.m3u8
 
 #EXTINF:-1,ModoRadio TV
-
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1,Kanadetv
-
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
 #EXTINF:-1,Beats Radio
@@ -125,7 +117,6 @@ https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,TOP Latino TV
-
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Crossing TV 
