@@ -123,3 +123,9 @@ https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 
 #EXTINF:-1,Crónica TV
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+#EXTINF:-1,Zapping Music
+https://urbanrevolution.es:8443/live/TV/chunklist_w331867293.m3u8?WebM3UCL
+
+#EXTINF:-1,Rewind Radio y TV
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1149730823.m3u8?WebM3UCL
