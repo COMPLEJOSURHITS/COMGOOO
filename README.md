@@ -129,3 +129,15 @@ https://urbanrevolution.es:8443/live/TV/chunklist_w331867293.m3u8?WebM3UCL
 
 #EXTINF:-1,Rewind Radio y TV
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1149730823.m3u8?WebM3UCL
+
+#EXTINF:-1,RED EVENTO1HD
+https://dgeft87wbj63p.cloudfront.net/1b0451fc27f6ccbf0869_kingsleague_46758208348_1680547508/720p60/index-dvr.m3u8
+
+#EXTINF:-1,RED EVENTO2HD
+
+
+#EXTINF:-1,COMEVENTO1HS
+
+
+#EXTINF:-1,COMEVENTO2HD
+
