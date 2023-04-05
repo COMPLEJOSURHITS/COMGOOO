@@ -5,7 +5,7 @@
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1,VH1COMPREMIUM
-https://content-asae1-up-1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=08846b15efd24f54842ac11e737ec0f7
+https://content-asae1-up-2.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/d.m3u8?pbs=5635cd406583473fac754cdfae7146d1
 
 #EXTINF:-1,COMPREMIUMHD
 
