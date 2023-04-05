@@ -4,6 +4,9 @@
 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
+#EXTINF:-1,Señal Urbana
+https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
+
 #EXTINF:-1,VH1COMPREMIUM
 https://content-asae1-up-2.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/d.m3u8?pbs=5635cd406583473fac754cdfae7146d1
 
