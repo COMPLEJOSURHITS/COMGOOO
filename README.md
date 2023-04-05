@@ -33,7 +33,7 @@ https://stream-linkyprojects.linky.com.co/hls/redhits.m3u8
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,COM CLASIC
-https://scl.edge.grupoz.cl/transmision/live/chunklist_w714972223.m3u8
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1,COMDISCO
 http://stream.zeno.fm/n2e4q8rpxxhvv
