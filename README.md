@@ -92,7 +92,7 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8?WebM3UCL
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1,LIM TV
-https://live.limplay.ml/limtv.m3u8
+https://stream-linkyprojects.linky.com.co/hls/limtv.m3u8
 
 #EXTINF:-1,ModoRadio TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
