@@ -160,3 +160,6 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?Playli
 
 #EXTINF:-1,Telemusica 
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,TNTSports
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD-avc1_4999936=10000-scale=30000-7878596272326.mp4
