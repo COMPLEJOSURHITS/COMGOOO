@@ -99,7 +99,7 @@ https://stream-linkyprojects.linky.com.co/hls/limtv.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1,Kanadetv
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 
 #EXTINF:-1,Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
