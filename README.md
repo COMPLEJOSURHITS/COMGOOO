@@ -63,8 +63,7 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 https://acl-server.linky.com.co/hls/toonizaki.m3u8
 
 #EXTINF:-1,TOONIZAKI2
-https://hls.quibi.one/live/toonizaki.m3u8
-
+https://acl-server.linky.com.co/hls/toonizaki2.m3u8
 #EXTINF:-1,Cauquenesnet TV
 https://vdo.miserver.pro:3102/stream/play.m3u8?WebM3UCL
 
