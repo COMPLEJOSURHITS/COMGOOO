@@ -7,16 +7,24 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
 
 
-#EXTINF:-1,COMPREMIUMHD
-
-https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
-
 #EXTINF:-1,star+
 
 #EXTINF:-1,magic kids AR
 https://kali.vdopanel.com:3683/stream/play.m3u8
 #EXTINF:-1,RED EVENTOS 1
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,COM GO
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrUG1-yj6pyU7Pt6TNktWcjVJ10iMjJCFmBqmEoQBDNSLMGzqff-31UaAr0Fk_QLxV1ArwNq2qbnveZZROov_v5Pgjn4-imdIz8QHlfqD-FjVowtHb9BlxE9V1mFCkm-h-DcSIgMhcItbOEtGEb8t78G5wlnnpzJzF5WbvonMx_JqEgnjsarGiYrO8UQgd5NT3-epleOxb1BKzjJUI7Uw2TE4GwwRI9oE78IIKXhvjqWeIyGujVD66ie-NQubpIBA7GsjSwcY7l5E7mRZziRwUNAoLmDdrGKXkOwsX7Iz573lw--PZxYbiIqba_1Kw0n5C9Qdlt0NnmNUgjnGxgI0FpMBm_4Z1wOm_RBvfzAm7I9lJ4iyzCWZ7V5f5rjOR8wqUtWEVAG3zYissxS5pIGcpvBuB96dwZjcBZqymjVz1yJo2fahXD9wv0faqxlkhjEjjsBAf3z7bTDoWArzut5AQttkxNSsM86L0bjXCoDQmwAe_3FFDFYQvl3RtlPUOq6WsF-ANSXJ7wntdBruxvC5-oNfKClpIYy4UNpi8uPeKOe-RagJbYF3ssIsR91m-skwo11lWxB9ndjZtOfZLDVO8odLlJy-_UKKF2gEEK_NaG7Ox3xJ0kjohtvOQ_kJ8YTSCXdmWVuFr1SGbcu4g9Epe7CS5qJmFowxA9vLnpsHuyLLVuytTvP-LLW0C2LrWmibdHgN_ryBXe4t6k7Z_2Bm7vuuKjsS2Uu5_NeVnOVjx5suwyCUgVrpjSSq_9lYGbREp4lRG_yB1CExb5KngKF6MHrEHtFILxWifkaSGwZ5BsX7Zu6N5chq2kONr74noXQU-uzUaJz9RD1ZBkVqFKUM8pEiAIZYVY44e0U8066rfgJKkZC3gZCFR1X3umQYGEEheIA2PiEn60R0RxXC2SyWPvmcjhgi96dNtQkcpDJqkpHGNvlWIJ3EoaWgq8s-oYCjPjD_gSogPodKLVVBqpyEp5xjtpoZf9dk4NzoigORDR5-lCuCkFxrlo_nqu34fUwaNe5bMpWZeTD9BT8npoUn6lFl9BjO2QJ_H56LIM1rC9IVfckDnvrmvpj5bWQ5bs7WStBDtCey3EaDOJBwufwX3WN7ExXnyABKglldS13ZXN0LTIw2QY.m3u8
+
+#EXTINF:-1,latinokids
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+
+#EXTINF:-1,Latin Zone TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,COMPREMIUMHD
+https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
 
 #EXTINF:-1,RED HITS PREMIUM 1
 http://190.122.96.187:8888/http/010
@@ -37,8 +45,6 @@ https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?WebM3UCL
 #EXTINF:-1,COMDISCO
 http://stream.zeno.fm/n2e4q8rpxxhvv
 
-#EXTINF:-1,COM GO
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrUG1-yj6pyU7Pt6TNktWcjVJ10iMjJCFmBqmEoQBDNSLMGzqff-31UaAr0Fk_QLxV1ArwNq2qbnveZZROov_v5Pgjn4-imdIz8QHlfqD-FjVowtHb9BlxE9V1mFCkm-h-DcSIgMhcItbOEtGEb8t78G5wlnnpzJzF5WbvonMx_JqEgnjsarGiYrO8UQgd5NT3-epleOxb1BKzjJUI7Uw2TE4GwwRI9oE78IIKXhvjqWeIyGujVD66ie-NQubpIBA7GsjSwcY7l5E7mRZziRwUNAoLmDdrGKXkOwsX7Iz573lw--PZxYbiIqba_1Kw0n5C9Qdlt0NnmNUgjnGxgI0FpMBm_4Z1wOm_RBvfzAm7I9lJ4iyzCWZ7V5f5rjOR8wqUtWEVAG3zYissxS5pIGcpvBuB96dwZjcBZqymjVz1yJo2fahXD9wv0faqxlkhjEjjsBAf3z7bTDoWArzut5AQttkxNSsM86L0bjXCoDQmwAe_3FFDFYQvl3RtlPUOq6WsF-ANSXJ7wntdBruxvC5-oNfKClpIYy4UNpi8uPeKOe-RagJbYF3ssIsR91m-skwo11lWxB9ndjZtOfZLDVO8odLlJy-_UKKF2gEEK_NaG7Ox3xJ0kjohtvOQ_kJ8YTSCXdmWVuFr1SGbcu4g9Epe7CS5qJmFowxA9vLnpsHuyLLVuytTvP-LLW0C2LrWmibdHgN_ryBXe4t6k7Z_2Bm7vuuKjsS2Uu5_NeVnOVjx5suwyCUgVrpjSSq_9lYGbREp4lRG_yB1CExb5KngKF6MHrEHtFILxWifkaSGwZ5BsX7Zu6N5chq2kONr74noXQU-uzUaJz9RD1ZBkVqFKUM8pEiAIZYVY44e0U8066rfgJKkZC3gZCFR1X3umQYGEEheIA2PiEn60R0RxXC2SyWPvmcjhgi96dNtQkcpDJqkpHGNvlWIJ3EoaWgq8s-oYCjPjD_gSogPodKLVVBqpyEp5xjtpoZf9dk4NzoigORDR5-lCuCkFxrlo_nqu34fUwaNe5bMpWZeTD9BT8npoUn6lFl9BjO2QJ_H56LIM1rC9IVfckDnvrmvpj5bWQ5bs7WStBDtCey3EaDOJBwufwX3WN7ExXnyABKglldS13ZXN0LTIw2QY.m3u8
 #EXTINF:-1,COM MUSIC
 
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
@@ -51,14 +57,8 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,latinokids
-https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
-
-#EXTINF:-1,Latin Zone TV
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,TOONIZAKI
-https://acl-server.linky.com.co/hls/toonizaki.m3u8
+https://xhateaec.com:8800/hls/toonizaki/toonizaki/ca6034b0327e8c6a575d13244801e918/index.m3u8
 
 #EXTINF:-1,TOONIZAKI2
 https://acl-server.linky.com.co/hls/toonizaki2.m3u8
