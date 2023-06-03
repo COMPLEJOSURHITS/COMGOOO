@@ -1,21 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,MagicKidsRADIO
-https://streaming01.shockmedia.com.ar:10470/stream
-
 #EXTINF:-1,EnerGeek Retro (CANAL PRICIPAL) COM GO
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1,Señal Urbana
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
 
-#EXTINF:-1,Magic KidsCOMPREMIUM1
+#EXTINF:-1,Magic KidsCOMPREMIUM 1
 https://kali.vdopanel.com:3683/stream/play.m3u8
-#EXTINF:-1,Magic Kids TVCOMPREMIUM 2
+#EXTINF:-1,Magic Kids COMPREMIUM 2
 https://acl-server.linky.com.co/hls/magictv.m3u8
 
 #EXTINF:-1,RED EVENTOS 1
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,COM GO
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1,latinokids
@@ -23,6 +21,7 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
 #EXTINF:-1,Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,COMPREMIUMHD
 https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
 
