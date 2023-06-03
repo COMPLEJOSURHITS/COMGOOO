@@ -6,65 +6,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1,Señal Urbana
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
 
-
 #EXTINF:-1,star+
 
-#EXTINF:-1,magic kids AR
-https://kali.vdopanel.com:3683/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Familiares",ACS NETWORK TV
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Familiares",Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Familiares",Magic Kids TV
-https://acl-server.linky.com.co/hls/magictv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 tvg-id="El Magic TV" tvg-name="El Magic TV" tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Familiares",El Magic TV
-https://kali.vdopanel.com:3683/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Familiares",Retro Infantil
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="Familiares",Teleclasica
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVb8GeN.png" group-title="Familiares",TV Retro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mZNsS9S.png" group-title="Familiares",TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Familiares",Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 2 KIDS" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Familiares",SEO TV 2 KIDS
-https://seo.tv.bo/tv/q2KIDS.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="Familiares",Tigueritos TV
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Familiares",PlanetaTV Kids
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Familiares",Moni TV HD
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="Familiares",Xabarin TV
-http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jvr8HBD.png" group-title="Familiares",Xabarin TV Pequerrechoas
-http://xabarintv-r1-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w2ds9Jy.png" group-title="Familiares",Xabarin TV Cativoas
-http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVrp09M.png" group-title="Familiares",Xabarin TV Mocinoas
-http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (geobloqueo)
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/VdszTcT.png" group-title="Familiares",Clan HD (opcion 2)
-https://d1xg4yk1tsabyl.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcw5zrt.png" group-title="Familiares",SX3 HD (geobloqueo)
-https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="Familiares",Planeta Junior TV
-http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Familiares",Rakuten TV Familia
-http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="Familiares",Chiquilines HD
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares",Paka Paka
-http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1,RED EVENTOS 1
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
