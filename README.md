@@ -35,16 +35,16 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1,RED HITS PREMIUM 2 HD
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 
-#EXTINF:-1,REDHITSPREMIUM
+#EXTINF:-1,REDHITSPREMIUMLOCAL
 https://stream-linkyprojects.linky.com.co/hls/redhits.m3u8
 
-#EXTINF:-1,REDGOSURCOMPREMIUM
+#EXTINF:-1,REDGO SUR COMPREMIUM
 https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1,REDGONORTECOMPREMIUM
+#EXTINF:-1,REDGO NORTE COMPREMIUM
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
-#EXTINF:-1,REDGOOESTECOMPREMIUM
+#EXTINF:-1,REDGO OESTE COMPREMIUM
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
-#EXTINF:-1,REDGOCENTROCOMPREMIUM
+#EXTINF:-1,REDGO CENTRO COMPREMIUM
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 #EXTINF:-1,COMHITS 
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
