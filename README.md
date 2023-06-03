@@ -30,8 +30,7 @@ https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
 http://190.122.96.187:8888/http/010
 
 #EXTINF:-1,RED HITS PREMIUM 2 HD
-
-https://video.streamingchilenos.cl:1936/8026/8026/playlist.m3u8?WebM3UCL
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 
 #EXTINF:-1,REDHITSPREMIUM
 https://stream-linkyprojects.linky.com.co/hls/redhits.m3u8
@@ -50,11 +49,9 @@ http://stream.zeno.fm/n2e4q8rpxxhvv
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,COMHITS 2 LIVEPLUS
-
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,COMBASE
-
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,TOONIZAKI
