@@ -26,6 +26,47 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1,COMPREMIUMHD
 https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
 
+#EXTINF:-1,MagicKidsRADIO
+https://streaming01.shockmedia.com.ar:10470/stream
+
+#EXTINF:-1,RED HITS PREMIUM 1
+http://190.122.96.187:8888/http/010
+
+#EXTINF:-1,RED HITS PREMIUM 2 HD
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+
+#EXTINF:-1,REDHITSPREMIUM
+https://stream-linkyprojects.linky.com.co/hls/redhits.m3u8
+
+#EXTINF:-1,REDGOSURCOMPREMIUM
+https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+#EXTINF:-1,REDGONORTECOMPREMIUM
+https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+#EXTINF:-1,REDGOOESTECOMPREMIUM
+https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+#EXTINF:-1,REDGOCENTROCOMPREMIUM
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1,COMHITS 
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,COM CLASIC
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1,COMDISCO
+http://stream.zeno.fm/n2e4q8rpxxhvv
+
+#EXTINF:-1,RED EVENTOS 1
+https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,COM GO
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1,latinokids
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+
+#EXTINF:-1,Latin Zone TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,COMPREMIUMHD
+https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
+
 #EXTINF:-1,RED HITS PREMIUM 1
 http://190.122.96.187:8888/http/010
 
