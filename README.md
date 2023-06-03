@@ -17,7 +17,7 @@ https://acl-server.linky.com.co/hls/magictv.m3u8
 #EXTINF:-1,RED EVENTOS 1
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,COM GO
-
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1,latinokids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
