@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,MagicKidsRADIOCOMPREMIUM
+https://streaming01.shockmedia.com.ar:10470/stream
+
 #EXTINF:-1,EnerGeek Retro (CANAL PRICIPAL) COM GO
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1,Señal Urbana
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
-
-#EXTINF:-1,MagicKidsRADIOCOMPREMIUM
-https://streaming01.shockmedia.com.ar:10470/stream
 
 #EXTINF:-1,,Magic KidsCOMPREMIUM1
 https://kali.vdopanel.com:3683/stream/play.m3u8
