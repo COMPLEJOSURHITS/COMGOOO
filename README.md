@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,MagicKidsRADIOCOMPREMIUM
+#EXTINF:-1,MagicKidsRADIO
 https://streaming01.shockmedia.com.ar:10470/stream
 
 #EXTINF:-1,EnerGeek Retro (CANAL PRICIPAL) COM GO
