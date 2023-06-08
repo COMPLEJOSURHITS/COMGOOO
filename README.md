@@ -100,8 +100,7 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,TOONIZAKI
-https://xhateaec.com:8800/hls/toonizaki/toonizaki/ca6034b0327e8c6a575d13244801e918/index.m3u8
-
+https://stmvideo1.livecastv.com/toonizakistudios/toonizakistudios/playlist.m3u8
 #EXTINF:-1,TOONIZAKI2
 https://acl-server.linky.com.co/hls/toonizaki2.m3u8
 
