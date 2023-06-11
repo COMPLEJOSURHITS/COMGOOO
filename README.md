@@ -20,9 +20,6 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 #EXTINF:-1,Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,COMPREMIUMHD
-https://stream-linkyprojects.linky.com.co/hls/complejosurpremium.m3u8
-
 #EXTINF:-1,MagicKidsRADIO
 https://streaming01.shockmedia.com.ar:10470/stream
 
