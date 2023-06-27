@@ -10,10 +10,12 @@ https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
 https://kali.vdopanel.com:3683/stream/play.m3u8
 #EXTINF:-1,Magic Kids COMPREMIUM 2
 https://acl-server.linky.com.co/hls/magictv.m3u8
+
 #EXTINF:-1,TBS
-http://45.5.117.172:8000/play/a0g9/index.m3u8
-#EXTINF:-1,TBSsur
 http://181.78.75.11:9500/play/a01j/index.m3u8
+
+#EXTINF:-1,TBSsur
+http://45.5.117.172:8000/play/a0g9/index.m3u8
 
 #EXTINF:-1,rtve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
