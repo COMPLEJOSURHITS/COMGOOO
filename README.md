@@ -10,10 +10,11 @@ https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?WebM3UCL
 http://pe.shortgod.com/pin/tv4.php?id=9124
 
 #EXTINF:-1,TBSPanregional
-https://stream-linkyprojects.linky.com.co/hls/tbslat.m3u8
+https://streaming.zappix.live:3962/live/tbsfeedpanlive.m3u8
 
 #EXTINF:-1,TBSsur
-https://acl-server.linky.com.co/hls/toonizaki2.m3u8
+https://streaming.zappix.live:3759/live/tbsfeedsurlive.m3u8
+
 #EXTINF:-1,rtve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
