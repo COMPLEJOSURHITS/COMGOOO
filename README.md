@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-#EXTINF:-1,señal 1
-https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
-#EXTINF:-1,señal 2
-https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",SYFY LA HD
 https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
