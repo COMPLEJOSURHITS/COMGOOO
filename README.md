@@ -3,6 +3,8 @@
 https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qpf6p3n/Logo-Much-Music.png" group-title="JOVENES Y ADULTOS",Much Music HD
 https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
+#EXTINF:-1,MuchMusic Panregional
+https://mitv.zplay.cl/Bakup/index.m3u8
 #EXTINF:-1,26TV
 http://181.209.95.29:8000/play/a01r/index.m3u8
 #EXTINF:-1,A&E
