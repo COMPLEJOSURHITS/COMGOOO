@@ -3,6 +3,8 @@
 https://streaming-cl.sh1ny.space/memfs/aeb8e612-099c-49a7-b475-769b2c2064ca.m3u8
 #EXTINF:tvg-id="" tvg-logo="https://i.ibb.co/SDNgSgLt/Music-2.png" group-title="MUSICAS",COMMUSIC HD
 https://streaming-cl.sh1ny.space/memfs/13d25998-aa73-4d86-9524-d2d948590d3c.m3u8
+#EXTINF:-1,PREMUIM2
+http://45.173.12.70:8000/play/a017/index.m3u8
 #EXTINF:-1,26TV
 http://181.209.114.13:8000/play/a01r/index.m3u8
 #EXTINF:-1,A&E HD
@@ -179,8 +181,7 @@ http://181.209.114.13:8000/play/a02s/index.m3u8
 http://181.209.114.13:8000/play/a023/index.m3u8
 #EXTINF:-1,Universal HD
 http://181.209.114.13:8000/play/a05j/index.m3u8
-#EXTINF:-1,Venus
-http://181.209.114.13:8000/play/a033/index.m3u8
+
 #EXTINF:-1,Volver
 http://181.209.114.13:8000/play/a021/index.m3u8
 #EXTINF:-1,Warner Channel HD
