@@ -1,12 +1,31 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-#EXTINF:-1,MASCHIS HD
+
+#EXTINF:-1,MASCHISHD
 https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h_720p/index.m3u8
-#EXTINF:-1,AMC SEIRES
+#EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
-#EXTINF:-1,MASCHIS SD
+#EXTINF:-1,MASCHISSD
 http://45.5.151.62:8000/play/a08d
-#EXTINF:-1,13 MAX
-http://200.80.230.125:8000/play/a0b6/index.m3u8
+#EXTINF:-1,MTVLIVE
+http://177.53.155.248:8050/play/a0kb
+#EXTINF:-1,MTV80
+http://45.5.117.99:8000/play/a0ge
+#EXTINF:-1,MTV90
+http://212.5.55.11:8000/play/a06d
+#EXTINF:-1,MTV00
+http://190.238.77.59:8000/play/a1e3
+#EXTINF:-1,MTVCLUB
+http://38.7.195.43:8000/play/a0vi
+#EXTINF:-1,MTVHITS
+http://45.5.117.99:8000/play/a0gd
+#EXTINF:-1,NICKMUSICHD
+http://190.95.60.228:8400/play/a076
+#EXTINF:-1,TEENICK
+http://45.5.117.99:8000/play/a03f
+#EXTINF:-1,ESPN Premium HD
+http://200.80.230.125:8000/play/a078/index.m3u8
+#EXTINF:-1,TNT Sports HD
+http://200.80.230.125:8000/play/a0bk/index.m3u8
 #EXTINF:-1,26TV
 http://200.80.230.125:8000/play/a01r/index.m3u8
 #EXTINF:-1,9 link
@@ -81,8 +100,6 @@ http://200.80.230.125:8000/play/a0ac/index.m3u8
 http://200.80.230.125:8000/play/a0ad/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://200.80.230.125:8000/play/a076/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://200.80.230.125:8000/play/a078/index.m3u8
 #EXTINF:-1,EWTN
 http://200.80.230.125:8000/play/a0ao/index.m3u8
 #EXTINF:-1,El Canal  de las Estrellas
@@ -191,8 +208,6 @@ http://200.80.230.125:8000/play/a07d/index.m3u8
 http://200.80.230.125:8000/play/a07g/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://200.80.230.125:8000/play/a07e/index.m3u8
-#EXTINF:-1,TNT Sports HD
-http://200.80.230.125:8000/play/a0bk/index.m3u8
 #EXTINF:-1,TV PUBLICA
 http://200.80.230.125:8000/play/a0a8/index.m3u8
 #EXTINF:-1,TVE
