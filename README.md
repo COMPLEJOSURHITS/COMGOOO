@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-#EXTINF:-1,EVENTO1
+#EXTINF:-1,MASCHIS HD
 https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h_720p/index.m3u8
-#EXTINF:-1,2
+#EXTINF:-1,AMC SEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
-#EXTINF:-1,3
+#EXTINF:-1,MASCHIS SD
 http://45.5.151.62:8000/play/a08d
 #EXTINF:-1,13 MAX
 http://200.80.230.125:8000/play/a0b6/index.m3u8
