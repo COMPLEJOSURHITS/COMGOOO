@@ -4,10 +4,6 @@
 https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h_720p/index.m3u8
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
-#EXTINF:-1,MASCHISSD
-http://45.5.151.62:8000/play/a08d
-#EXTINF:-1,MASCHISPERU
-https://cablered.iptvperu.tv:1936/transcoder/maschic_t1.stream/playlist.m3u8
 #EXTINF:-1,MASCHIsd
 http://45.5.151.62:8000/play/a08d
 #EXTINF:-1,bittchannel2
