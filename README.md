@@ -10,6 +10,10 @@ http://45.5.151.62:8000/play/a08d
 https://cablered.iptvperu.tv:1936/transcoder/maschic_t1.stream/playlist.m3u8
 #EXTINF:-1,MASCHIsd
 http://45.5.151.62:8000/play/a08d
+#EXTINF:-1,bittchannel2
+https://v4.tustreaming.cl/bittchannel/index.m3u8
+#EXTINF:-1,bittchannel11
+http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
 #EXTINF:-1,EventosHD
