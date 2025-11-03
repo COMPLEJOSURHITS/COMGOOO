@@ -6,6 +6,18 @@ https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h_720p/index.m3u8
 http://38.7.216.4/hls/amc_series/index.m3u8
 #EXTINF:-1,MASCHISSD
 http://45.5.151.62:8000/play/a08d
+#EXTINF:-1,MASCHISPERU
+https://cablered.iptvperu.tv:1936/transcoder/maschic_t1.stream/playlist.m3u8
+#EXTINF:-1,MASCHIsd
+http://45.5.151.62:8000/play/a08d
+#EXTINF:-1,AMCSEIRES
+http://38.7.216.4/hls/amc_series/index.m3u8
+#EXTINF:-1,EventosHD
+http://200.80.230.125:8000/play/a0bf/index.m3u8
+#EXTINF:-1,EventosHD2
+http://181.198.105.69:8111/play/a221/index.m3u8
+#EXTINF:-1,EventosHD3
+http://181.198.105.69:8111/play/a22u/index.m3u8
 #EXTINF:-1,MTVLIVE
 http://177.53.155.248:8050/play/a0kb
 #EXTINF:-1,MTV80
@@ -110,8 +122,6 @@ http://200.80.230.125:8000/play/a06w/index.m3u8
 http://200.80.230.125:8000/play/a01m/index.m3u8
 #EXTINF:-1,Europa Europa
 http://200.80.230.125:8000/play/a06v/index.m3u8
-#EXTINF:-1,Eventos HD
-http://200.80.230.125:8000/play/a0bf/index.m3u8
 #EXTINF:-1,FOX SPORT 2
 http://200.80.230.125:8000/play/a0aa/index.m3u8
 #EXTINF:-1,FX HD
