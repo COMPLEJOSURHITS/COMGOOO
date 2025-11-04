@@ -1,11 +1,10 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1,MASCHISHD
-https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h_720p/index.m3u8
+
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
 #EXTINF:-1,MASCHIsd
-http://45.5.151.62:8000/play/a08d
+http://177.234.230.206:8011/play/a09l
 #EXTINF:-1,bittchannel2
 https://v4.tustreaming.cl/bittchannel/index.m3u8
 #EXTINF:-1,bittchannel11
