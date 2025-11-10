@@ -1,12 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-
-
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
 #EXTINF:-1,MASCHIsd
 http://177.234.230.206:8011/play/a09l
-#EXTINF:-1,bittchannel2
-https://v4.tustreaming.cl/bittchannel/index.m3u8
 #EXTINF:-1,bittchannel11
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 #EXTINF:-1,AMCSEIRES
@@ -17,6 +13,170 @@ http://200.80.230.125:8000/play/a0bf/index.m3u8
 http://181.198.105.69:8111/play/a221/index.m3u8
 #EXTINF:-1,EventosHD3
 http://181.198.105.69:8111/play/a22u/index.m3u8
+#EXTINF:-1,24h HD
+http://176.65.146.237:8401/play/a094/index.m3u8
+#EXTINF:-1,A3Series
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:-1,AndaluciaTV
+http://176.65.146.237:8401/play/a09g/index.m3u8
+#EXTINF:-1,Antena 3
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1,BOM
+http://176.65.146.237:8401/play/a09d/index.m3u8
+#EXTINF:-1,BOM RADIO
+http://176.65.146.237:8401/play/a09o/index.m3u8
+#EXTINF:-1,BeMad tv HD
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+#EXTINF:-1,Boing
+http://176.65.146.237:8401/play/a0ad/index.m3u8
+#EXTINF:-1,C.S.R. Malaga
+http://176.65.146.237:8401/play/a09a/index.m3u8
+#EXTINF:-1,CADENA 100
+http://176.65.146.237:8401/play/a09m/index.m3u8
+#EXTINF:-1,COPE
+http://176.65.146.237:8401/play/a0aa/index.m3u8
+#EXTINF:-1,Canal Fiesta R.
+http://176.65.146.237:8401/play/a09e/index.m3u8
+#EXTINF:-1,CanalSur2
+http://176.65.146.237:8401/play/a099/index.m3u8
+#EXTINF:-1,CanalSurHD
+http://176.65.146.237:8401/play/a09c/index.m3u8
+#EXTINF:-1,Clan HD
+http://176.65.146.237:8401/play/a09t/index.m3u8
+#EXTINF:-1,Cuatro HD
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1,DIAL
+http://176.65.146.237:8401/play/a0a4/index.m3u8
+#EXTINF:-1,DKISS
+http://176.65.146.237:8401/play/a09y/index.m3u8
+#EXTINF:-1,DMAX
+http://176.65.146.237:8401/play/a09j/index.m3u8
+#EXTINF:-1,Disney Channel
+http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1,Divinity
+http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:-1,EUROPA FM
+http://176.65.146.237:8401/play/a0a7/index.m3u8
+#EXTINF:-1,Energy
+http://176.65.146.237:8401/play/a0ac/index.m3u8
+#EXTINF:-1,FDF
+http://176.65.146.237:8401/play/a09p/index.m3u8
+#EXTINF:-1,FlamencoRadio.com
+http://176.65.146.237:8401/play/a09b/index.m3u8
+#EXTINF:-1,GOL PLAY HD
+http://176.65.146.237:8401/play/a09k/index.m3u8
+#EXTINF:-1,HIT FM
+http://176.65.146.237:8401/play/a0a0/index.m3u8
+#EXTINF:-1,Kiss FM
+http://176.65.146.237:8401/play/a09z/index.m3u8
+#EXTINF:-1,LOS40
+http://176.65.146.237:8401/play/a0a3/index.m3u8
+#EXTINF:-1,LOS40 Classic
+http://176.65.146.237:8401/play/a0am/index.m3u8
+#EXTINF:-1,LOS40 Urban
+http://176.65.146.237:8401/play/a0an/index.m3u8
+#EXTINF:-1,La 1 HD
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:-1,La 1 UHD
+http://176.65.146.237:8401/play/a09u/index.m3u8
+#EXTINF:-1,La 2 HD
+http://176.65.146.237:8401/play/a098/index.m3u8
+#EXTINF:-1,MEGA
+http://176.65.146.237:8401/play/a0a5/index.m3u8
+#EXTINF:-1,Melodia FM
+http://176.65.146.237:8401/play/a0a8/index.m3u8
+#EXTINF:-1,ONDA CERO
+http://176.65.146.237:8401/play/a0a6/index.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1,R.A.I. Malaga
+http://176.65.146.237:8401/play/a09f/index.m3u8
+#EXTINF:-1,RADIO MARCA
+http://176.65.146.237:8401/play/a09l/index.m3u8
+#EXTINF:-1,RADIO MARIA
+http://176.65.146.237:8401/play/a09n/index.m3u8
+#EXTINF:-1,RNE Andalucía
+http://176.65.146.237:8401/play/a096/index.m3u8
+#EXTINF:-1,Radio 5 RNE
+http://176.65.146.237:8401/play/a097/index.m3u8
+#EXTINF:-1,Radio Clasica HQ RNE
+http://176.65.146.237:8401/play/a09v/index.m3u8
+#EXTINF:-1,Radio Exterior RNE
+http://176.65.146.237:8401/play/a09x/index.m3u8
+#EXTINF:-1,Radio3 HQ RNE
+http://176.65.146.237:8401/play/a09w/index.m3u8
+#EXTINF:-1,Radiolé
+http://176.65.146.237:8401/play/a0ao/index.m3u8
+#EXTINF:-1,Realmadrid TV HD
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1,Rock FM
+http://176.65.146.237:8401/play/a0ab/index.m3u8
+#EXTINF:-1,SER
+http://176.65.146.237:8401/play/a0a2/index.m3u8
+#EXTINF:-1,TEN
+http://176.65.146.237:8401/play/a0al/index.m3u8
+#EXTINF:-1,TRECE
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+#EXTINF:-1,Telecinco HD
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1,esRadio
+http://176.65.146.237:8401/play/a0a1/index.m3u8
+#EXTINF:-1,laSexta
+http://176.65.146.237:8401/play/a0af/index.m3u8
+#EXTINF:-1,neox
+http://176.65.146.237:8401/play/a0ag/index.m3u8
+#EXTINF:-1,nova
+http://176.65.146.237:8401/play/a0ah/index.m3u8
+#EXTINF:-1,tdp HD
+http://176.65.146.237:8401/play/a093/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png" group-title="Global",MTV Hits (4:3 Letterbox LATAM)
+http://45.5.117.99:8000/play/a0gd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png" group-title="Global",MTV Hits (Alt 4:3 Letterbox LATAM)
+http://38.7.101.90:8000/play/a1s8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png" group-title="Global",MTV Hits (576p Ucrania)
+http://46.149.191.217:9011/play/a00s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png" group-title="Global",MTV Live (HD LATAM)
+http://45.5.117.99:8000/play/a0hz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/960px-MTV_Live_2021_logo.svg.png" group-title="Global",MTV Live (HD BR/LATAM)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Global",MTV 80s (4:3 LATAM)
+http://45.5.117.99:8000/play/a0ge
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Global",MTV 80s (576p Ucrania)
+http://46.149.191.217:9011/play/a00u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/298px-MTV_90s_2022.svg.png" group-title="Global",MTV 90s (576p Ucrania)
+http://46.149.191.217:9011/play/a00v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Global",MTV 00s (HD LATAM)
+http://45.5.117.99:8000/play/a0i0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Global",MTV 00s (4:3 estirado LATAM)
+http://201.217.246.177:8000/play/a053
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Global",MTV 00s (576p Ucrania)
+http://46.149.191.217:9011/play/a00r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/960px-Club_MTV_2021_logo.svg.png" group-title="Global",Club MTV Europe (4:3 Letterbox LATAM)
+http://38.7.195.43:8000/play/a0vi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/960px-Club_MTV_2021_logo.svg.png" group-title="Global",Club MTV Europe (576p Ucrania)
+http://46.149.191.217:9011/play/a00t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NickMusic_Purple.svg/960px-NickMusic_Purple.svg.png" group-title="Global",NickMusic USA (4:3 LATAM)
+http://190.95.60.228:8400/play/a076
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/800px-Paramount_Network_2024.svg.png" group-title="Latinoamérica",(LA) Paramount Network (HD)
+http://190.95.60.228:8400/play/a09v
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Latinoamérica",(LA) TeenNick (HD)
+http://45.5.117.99:8000/play/a03f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Brasil",(BR) Comedy Central (HD)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/284.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Brasil",(BR) MTV (HD)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/960px-Nick_Jr._logo_2023.svg.png" group-title="Brasil",(BR) Nick Jr (HD)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/283.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png" group-title="Brasil",(BR) Nickelodeon (HD feo)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/275.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/800px-Paramount_Network_2024.svg.png" group-title="Brasil",(BR?) Paramount Network (HD)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/737.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/e4/PolsatComedyExtra_HighQuality-removebg-preview_%281%29.png/revision/latest?cb=20210614190931&path-prefix=pl" group-title="Especiales",(PL) Polsat CC Extra (HD)
+http://185.236.229.62:9981/play/a06c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/800px-Paramount_Network_2024.svg.png" group-title="Especiales",(ES) Paramount Network España (HD)
+http://176.65.146.237:8401/play/a09i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/800px-Paramount_Network_2024.svg.png" group-title="Especiales",(FR) Paramount Network Francia (HD)
+http://213.176.3.65:8080/Mrpercel/wPmDRknOaL/121667
 #EXTINF:-1,MTVLIVE
 http://177.53.155.248:8050/play/a0kb
 #EXTINF:-1,MTV80
