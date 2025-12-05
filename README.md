@@ -5,7 +5,7 @@ http://38.7.216.4/hls/amc_series/index.m3u8
 https://tv1.ninatv.cl/ComHits/stream.m3u8
 #EXTINF:-1,comclub
 https://mitv.zplay.cl/ComHits/index.m3u8
-#EXTINF:-1,bittchannel11
+#EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
