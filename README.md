@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
-#EXTINF:-1,MASCHIsd
-http://177.234.230.206:8011/play/a09l
-#EXTINF:-1,COMHITS
+#EXTINF:-1,comhits
+https://tv1.ninatv.cl/ComHits/stream.m3u8
+#EXTINF:-1,comclub
 https://mitv.zplay.cl/ComHits/index.m3u8
 #EXTINF:-1,bittchannel11
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
