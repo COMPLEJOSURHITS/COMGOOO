@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
+#EXTINF:-1,FMHKIDS
+http://177.234.230.206:8011/play/a0ac/index.m3u8
 #EXTINF:-1,comhits
 https://tv1.ninatv.cl/ComHits/stream.m3u8
 #EXTINF:-1,COMCLUB
