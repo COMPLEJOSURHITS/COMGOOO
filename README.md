@@ -5,6 +5,8 @@
 http://tv1.ninatv.cl/ComHits20/livestream.m3u8
 #EXTINF:-1,COMCLUB
 https://mitv.zplay.cl/ComHits/index.m3u8
+#EXTINF:-1,COMCLUB2
+https://tv1.ninatv.cl/ComClub20/livestream.m3u8
 #EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 #EXTINF:-1,MTVCHINA
