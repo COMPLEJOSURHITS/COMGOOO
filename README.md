@@ -3,8 +3,10 @@
 
 #EXTINF:-1,COMHITS
 http://tv1.ninatv.cl/ComHits20/livestream.m3u8
-#EXTINF:-1,COMCLUB
+#EXTINF:-1,COMliveSD
 https://mitv.zplay.cl/ComHits/index.m3u8
+#EXTINF:-1,COMliveHD
+http://tv1.ninatv.cl/ComLive20/livestream.m3u8
 #EXTINF:-1,COMCLUB2
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
 #EXTINF:-1,blurv
