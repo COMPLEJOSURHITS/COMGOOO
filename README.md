@@ -19,20 +19,29 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 http://38.7.216.4/hls/amc_series/index.m3u8
 #EXTINF:-1,EventosHD off
 http://200.80.230.125:8000/play/a0bf/index.m3u8
-#EXTINF:-1,EventosHD
+#EXTINF:-1,EventosHD OFF
 http://181.198.105.69:8111/play/a221/index.m3u8
-#EXTINF:-1,EventosHD2
+#EXTINF:-1,EventosHD2 OFF
 http://181.198.105.69:8111/play/a221/index.m3u8
-#EXTINF:-1,EventosHD3
+#EXTINF:-1,EventosHD3 OFF
 http://181.198.105.69:8111/play/a22u/index.m3u8
 #EXTINF:-1,ESPN Premium HD OFF
 http://200.80.230.125:8000/play/a078/index.m3u8
 #EXTINF:-1,TNT Sports HD OFF
 http://200.80.230.125:8000/play/a0bk/index.m3u8
-#EXTINF:-1,TNT Sports HD ar
+#EXTINF:-1,TNT Sports HD ar off
 http://181.198.105.69:8111/play/a20f/index.m3u8
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1,ESPN Premium HD off
 http://181.198.105.69:8111/play/a22z/index.m3u8
+#EXTINF:-1,TNT Sports
+http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://190.7.19.197:232/play/a038/index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="-",13 C
 http://181.198.105.69:8111/play/a262/index.m3u8
 #EXTINF:-1 group-title="-",13-Sinart ST
