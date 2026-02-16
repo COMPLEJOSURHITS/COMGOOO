@@ -9,6 +9,8 @@ https://mitv.zplay.cl/ComHits/index.m3u8
 http://tv1.ninatv.cl/ComLive20/livestream.m3u8
 #EXTINF:-1,COMCLUB2
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
+#EXTINF:-1,EVENTO COM
+https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
 #EXTINF:-1,blurv
 http://148.222.230.201:8000/play/a0k3/index.m3u8
 #EXTINF:-1,bittchannel
