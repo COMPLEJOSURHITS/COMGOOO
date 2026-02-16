@@ -11,6 +11,10 @@ http://tv1.ninatv.cl/ComLive20/livestream.m3u8
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
 #EXTINF:-1,EVENTO COM
 https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
+#EXTINF:-1,MTVHITS
+http://synciptv.org/play/live.php?mac=00:1A:79:E8:D9:98&stream=1828694&extension=ts&play_token=VfufKjv2nd
+#EXTINF:-1,MTV00
+http://synciptv.org/play/live.php?mac=00:1A:79:E8:D9:98&stream=1828690&extension=ts&play_token=S31IMFw9jf
 #EXTINF:-1,blurv
 http://148.222.230.201:8000/play/a0k3/index.m3u8
 #EXTINF:-1,bittchannel
