@@ -3,11 +3,11 @@
 
 #EXTINF:-1,COMHITS
 http://tv1.ninatv.cl/ComHits20/livestream.m3u8
-#EXTINF:-1,COMliveHD
+#EXTINF:-1,COMlive
 http://tv1.ninatv.cl/ComLive20/livestream.m3u8
-#EXTINF:-1,COMCLUB2
+#EXTINF:-1,COMCLUB
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
-#EXTINF:-1,EVENTO COM
+#EXTINF:-1,COM INFO
 https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
 #EXTINF:-1,MTVHITS
 http://synciptv.org/play/live.php?mac=00:1A:79:E8:D9:98&stream=1828694&extension=ts&play_token=VfufKjv2nd
