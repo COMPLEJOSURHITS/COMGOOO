@@ -12,7 +12,7 @@ https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
 #EXTINF:-1,feed1
 http://38.87.224.21:2220/play/a032
 #EXTINF:-1,feed 2
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+http://wisz.online/live/537b105bdb5a/f20f17fe5c/1789849.ts
 #EXTINF:-1,MTVHITS
 http://synciptv.org/play/live.php?mac=00:1A:79:E8:D9:98&stream=1828694&extension=ts&play_token=VfufKjv2nd
 #EXTINF:-1,MTV00
