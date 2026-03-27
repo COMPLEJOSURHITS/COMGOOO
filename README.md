@@ -22,7 +22,7 @@ http://148.222.230.201:8000/play/a0k3/index.m3u8
 #EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 #EXTINF:-1,MTVCHINA
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+http://171.224.203.69:81/stream/channelid/942307043?profile=pass
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
 #EXTINF:-1 group-title="-",Eventos HD AR
