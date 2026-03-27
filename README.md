@@ -5,7 +5,7 @@
 http://tv1.ninatv.cl/ComHits20/livestream.m3u8
 #EXTINF:-1,COMlive
 http://tv1.ninatv.cl/ComLive20/livestream.m3u8
-#EXTINF:-1,COMCLUB
+#EXTINF:-1,COMCLUb
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
 #EXTINF:-1,COM INFO
 https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
