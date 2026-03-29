@@ -7,20 +7,22 @@ http://tv1.ninatv.cl/ComHits20/livestream.m3u8
 http://tv1.ninatv.cl/ComLive20/livestream.m3u8
 #EXTINF:-1,COMCLUb
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
-#EXTINF:-1,COM INFO
+#EXTINF:-1,COM EVENTO
 https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
-#EXTINF:-1,feed1
-http://38.87.224.21:2220/play/a032
-#EXTINF:-1,feed 2
-http://wisz.online/live/537b105bdb5a/f20f17fe5c/1789849.ts
-#EXTINF:-1,MTVHITS
-http://synciptv.org/play/live.php?mac=00:1A:79:E8:D9:98&stream=1828694&extension=ts&play_token=VfufKjv2nd
-#EXTINF:-1,MTV00
-http://synciptv.org/play/live.php?mac=00:1A:79:E8:D9:98&stream=1828690&extension=ts&play_token=S31IMFw9jf
-#EXTINF:-1,blurv
-http://148.222.230.201:8000/play/a0k3/index.m3u8
+#EXTINF:-1,Biit cinema
+https://stream.bittchannel.com/bittchannel/bittcinema/hls.m3u8
+#EXTINF:-1,Bitt music 
+https://stream.bittchannel.com/bittchannel/bittmusic/hls.m3u8
 #EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
+#EXTINF:-1,nina tv
+https://tv1.ninatv.cl/web/stream.m3u8
+#EXTINF:-1,MTVHITS
+http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1054144
+#EXTINF:-1,MTV00
+http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1054146
+#EXTINF:-1,blurv
+http://148.222.230.201:8000/play/a0k3/index.m3u8
 #EXTINF:-1,MTVCHINA
 http://171.224.203.69:81/stream/channelid/942307043?profile=pass
 #EXTINF:-1,AMCSEIRES
