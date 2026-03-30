@@ -24,7 +24,7 @@ http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1054146
 #EXTINF:-1,blurv
 http://148.222.230.201:8000/play/a0k3/index.m3u8
 #EXTINF:-1,MTVCHINA
-http://171.224.203.69:81/stream/channelid/942307043?profile=pass
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1,AMCSEIRES
 http://38.7.216.4/hls/amc_series/index.m3u8
 #EXTINF:-1 group-title="-",Eventos HD AR
