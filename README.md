@@ -31,6 +31,10 @@ http://45.238.54.67:8000/play/a02n/index.m3u8
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1, espn premium arg
 http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1,tnt sports 2 arg
+http://181.209.105.115:2525/play/tntsports/index.m3u8
+#EXTINF:-1, espn premium arg
+http://181.209.105.115:2525/play/espnpremium/index.m3u8
 #EXTINF:-1,españajp
 https://streams-us.mel.pet/stream/kikuo/disneyjuniores/master.m3u8?u=fms_public&p=7e626769e6319594d913e9430ed6b3b447d6e1a3adbb6d5cbb9fab2f8e01b8f6
 #EXTINF:-1 group-title="-",Eventos HD AR
