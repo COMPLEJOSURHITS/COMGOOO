@@ -25,8 +25,6 @@ http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1054146
 http://148.222.230.201:8000/play/a0k3/index.m3u8
 #EXTINF:-1,MTVCHINA
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1,tnt 2 
-http://45.238.54.67:8000/play/a02n/index.m3u8
 #EXTINF:-1,tnt 3 arg
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1, espn premium arg
@@ -47,22 +45,6 @@ http://181.198.105.69:8111/play/a22u/index.m3u8
 http://45.238.54.67:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="-",Eventos HD 2
 http://45.238.54.67:8000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title="-",TNT SPORTS
-http://45.238.54.67:8000/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports HD
-http://45.238.54.67:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports HD
-http://191.97.111.38:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://191.97.111.38:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports HD
-http://181.209.37.74:8001/play/a06z/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://181.209.37.74:8001/play/a086/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://45.4.92.118:9090/play/a03j/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premium SD
-http://45.4.92.118:9090/play/a060/index.m3u8
 #EXTINF:-1 group-title="-",26TV
 http://45.238.54.67:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="-",A&E
