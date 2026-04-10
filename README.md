@@ -3,14 +3,10 @@
 
 #EXTINF:-1,COMHITS
 http://tv1.ninatv.cl/ComHits20/livestream.m3u8
-#EXTINF:-1,COMHITS
-http://38.7.207.20:901/live/tv1.m3u8
 #EXTINF:-1,COM EVENTO
 https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
 #EXTINF:-1,COMCLUb
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
-#EXTINF:-1,COMCLUB 
-http://38.7.207.20:901/live/tv2.m3u8
 #EXTINF:-1,COMlive
 http://tv1.ninatv.cl/ComLive20/livestream.m3u8
 #EXTINF:-1,Biit cinema
