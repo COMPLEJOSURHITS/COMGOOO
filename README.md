@@ -3,22 +3,22 @@
 
 #EXTINF:-1,COMHITS
 http://tv1.ninatv.cl/ComHits20/livestream.m3u8
-#EXTINF:-1,COM EVENTO
+#EXTINF:-1,COMHITS2
 https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
-#EXTINF:-1,COMCLUb
+#EXTINF:-1,COMCLUB
 https://tv1.ninatv.cl/ComClub20/livestream.m3u8
 #EXTINF:-1,COMlive
 http://tv1.ninatv.cl/ComLive20/livestream.m3u8
-#EXTINF:-1,Biit cinema
-https://stream.bittchannel.com/bittchannel/bittcinema/hls.m3u8
 #EXTINF:-1,Bitt music 
 https://stream.bittchannel.com/bittchannel/bittmusic/hls.m3u8
 #EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
-#EXTINF:-1,CHANNEL
-http://38.7.197.119:4000/play/a03u/index.m3u8
 #EXTINF:-1,nina tv
 https://tv1.ninatv.cl/web/stream.m3u8
+#EXTINF:-1,Biit cinema
+https://stream.bittchannel.com/bittchannel/bittcinema/hls.m3u8
+#EXTINF:-1,CHANNEL
+http://38.7.197.119:4000/play/a03u/index.m3u8
 #EXTINF:-1,MTVCHINA
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1,MTVHITS
