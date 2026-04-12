@@ -10,7 +10,7 @@ https://tv1.ninatv.cl/ComClub20/livestream.m3u8
 #EXTINF:-1,COMlive
 http://tv1.ninatv.cl/ComLive20/livestream.m3u8
 #EXTINF:-1,Bitt music 
-https://stream.bittchannel.com/bittchannel/bittmusic/hls.m3u8
+https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 #EXTINF:-1,nina tv
