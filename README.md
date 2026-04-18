@@ -18,7 +18,7 @@ https://tv1.ninatv.cl/web/stream.m3u8
 #EXTINF:-1,Biit cinema
 https://stream.bittchannel.com/bittchannel/bittcinema/hls.m3u8
 #EXTINF:-1,CHANNEL
-http://38.7.197.119:4000/play/a03u/index.m3u8
+http://207.248.2.105:3200/play/a0wz/index.m3u8
 #EXTINF:-1,MTVCHINA
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1,MTVHITS
