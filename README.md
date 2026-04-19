@@ -15,6 +15,10 @@ http://tv1.ninatv.cl/ComLive20/livestream.m3u8
 https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
+EXTINF:-1,señal1
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255H-iIKMy43rOGuDQtEP45b/m3u8
+EXTINF:-1,señal 2
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
 #EXTINF:-1,nina tv
 https://tv1.ninatv.cl/web/stream.m3u8
 #EXTINF:-1,Biit cinema
