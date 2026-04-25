@@ -27,8 +27,8 @@ https://stream.bittchannel.com/bittchannel/bittcinema/hls.m3u8
 http://207.248.2.105:3200/play/a0wz/index.m3u8
 #EXTINF:-1,MTVCHINA
 https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1,MTVHITS
-http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1054144
+#EXTINF:-1,telecanal
+https://ats-edge-lang-1.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1,MTV00
 http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1054146
 #EXTINF:-1,blurv
