@@ -2,15 +2,13 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1,COMHITS
-http://tv1.ninatv.cl/ComHits20/livestream.m3u8
-#EXTINF:-1,COMHITS2
-https://tv1.ninatv.cl/ComEventosHD20/livestream.m3u8
+https://bitt.netvoiceperu.com:5344/auth/MGmglcrAPlaOVitsxtrxPf_V2bkAcUKz4GCAhLDc0hUYszbcmM_GUzK4PZ6PBJkwzwyDxXgSuTLHLEPHm3GzmGYM9UOuxYDnOAw6uRl3EZ-SuHCCY0xfLUMxwapHca_mHZKqHcNWw_VA7GUFHxW6gHI8WuEA3qQZ4D25r1YssJp5fuF2rTBAzH7QGT24PXlNWsb0wHcg3BgD1QmLywz6SLRpagnb-PuYvqLNiuq8W60LWRn-YXtd0wE04rHjJux4L-72xJU5RO6KXv4nQvLDros4neOxiI1RqqVCtDLSI6CzDaq8XMUWPoCIsPJezn7xLP8dgMbZhz2oW9-nXu1qu0-_eozBzjwyiMbSLNBu5UBnvPxY4X3XCP4azv-FrUdYl62tGSxDFEPz0FEjnd0KYeUJJQ8Sw5_gMgPg63FJPam_8hkF6MEDrx4oTb3xLOKpBg17T43DTocZV8A91HUxn4RYFwnckzV4dPXkLQY4qXRy9UsFoJ6KUm1NsuutzxzIJoEvFAg53XASZ-shtnKhUj64smN5dNE4CYP6E3RTttDrtddEi2xqZQQznq_DPY4H8nu-TCn19WX5_-Pjpuv6pbLJfTLujesnIrELXPFGeKg
 #EXTINF:-1,COMHITS
 http://38.7.207.20:901/live/tv1.m3u8
 #EXTINF:-1,COMCLUB
-https://tv1.ninatv.cl/ComClub20/livestream.m3u8
+https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEUaDc/m3u8
 #EXTINF:-1,COMlive
-http://tv1.ninatv.cl/ComLive20/livestream.m3u8
+https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
 #EXTINF:-1,Bitt music 
 https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,channel 1
