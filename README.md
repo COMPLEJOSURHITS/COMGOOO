@@ -9,6 +9,8 @@ http://38.7.207.20:901/live/tv1.m3u8
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEUaDc/m3u8
 #EXTINF:-1,COMlive
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
+#EXTINF:-1,COM+
+https://livesb.cslatv.com:7374/live/complus/index.m3u8
 #EXTINF:-1,Bitt music 
 https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,channel 1
