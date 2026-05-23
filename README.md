@@ -10,7 +10,7 @@ https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEU
 #EXTINF:-1,COMlive
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
 #EXTINF:-1,COM+
-https://livesb.cslatv.com:7374/live/complus/index.m3u8
+http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
 #EXTINF:-1,Bitt music 
 https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,channel 1
