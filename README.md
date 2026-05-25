@@ -14,7 +14,7 @@ http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
 #EXTINF:-1,Bitt music 
 https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,NICKMUSICHD 
-https://oct.nexon.rocks/live/ecqf6gnxef/euc2287bf0/51349.m3u8
+http://oct.nexon.rocks/live/ecqf6gnxef/euc2287bf0/51349.m3u8
 #EXTINF:-1,channel 1
 http://38.7.223.20:8000/play/a0hj
 #EXTINF:-1,channel 2
