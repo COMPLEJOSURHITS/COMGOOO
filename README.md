@@ -15,6 +15,18 @@ http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
 https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,NICKMUSICHD 
 http://oct.nexon.rocks/live/ecqf6gnxef/euc2287bf0/51349.m3u8
+#EXTINF:-1,RED
+http://38.7.197.119:4000/play/a01c
+#EXTINF:-1,RED2
+http://38.7.197.119:4000/play/a01b
+EXTINF:-1,Red 3
+https://alba-cl-lared-lared.stream.mediatiquestream.com/original.m3u8
+EXTINF:-1,Red
+https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+EXTINF:-1,Red
+http://38.7.197.119:4000/play/a01a
+EXTINF:-1,Red
+http://190.95.11.223:8000/play/062
 #EXTINF:-1,channel 1
 http://38.7.223.20:8000/play/a0hj
 #EXTINF:-1,channel 2
