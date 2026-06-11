@@ -4,11 +4,17 @@
 #EXTINF:-1,COMHITS
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
 #EXTINF:-1,COMHITS
+http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
+#EXTINF:-1,COMHITS
 http://38.7.207.20:901/live/tv1.m3u8
 #EXTINF:-1,COMCLUB
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEUaDc/m3u8
+#EXTINF:-1,COMCLUB
+http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274253.ts
 #EXTINF:-1,COMlive
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
+#EXTINF:-1,COMlive
+http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274254.ts
 #EXTINF:-1,COM+
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
 #EXTINF:-1,Bitt music 
