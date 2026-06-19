@@ -15,9 +15,9 @@ http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274253.ts
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
 #EXTINF:-1,COMlive
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274254.ts
-#EXTINF:-1,COM+
+#EXTINF:-1,COM+ ReCOM
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
-#EXTINF:-1,COM+2
+#EXTINF:-1,COM+2 RECOM
 http://38.7.207.20:901/live/tv6.m3u8
 #EXTINF:-1,NICKMUSICHD 
 http://oct.nexon.rocks/live/ecqf6gnxef/euc2287bf0/51349.m3u8
@@ -27,16 +27,6 @@ http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255H-iIKMy43rOGuDQtEP45b/m3u8
 #EXTINF:-1,COM3
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
-#EXTINF:-1,KBS2  
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=kbs2
-#EXTINF:-1,JTBC 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=jtbc
-#EXTINF:-1,tvN 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tvn
-#EXTINF:-1,SBS 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sbs
-#EXTINF:-1,MBC 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=mbc
 #EXTINF:-1,NRK1 NORWAY
 http://185.19.191.4:8090/NRK1/index.m3u8
 #EXTINF:-1,Fifa + 
