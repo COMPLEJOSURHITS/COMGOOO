@@ -21,10 +21,6 @@ http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
 https://104.236.118.56/bmusic/bmusic1/hls.m3u8
 #EXTINF:-1,NICKMUSICHD 
 http://oct.nexon.rocks/live/ecqf6gnxef/euc2287bf0/51349.m3u8
-#EXTINF:-1,channel 1
-http://38.7.223.20:8000/play/a0hj
-#EXTINF:-1,channel 2
-http://207.248.2.105:3200/play/a0x9
 #EXTINF:-1,bittchannel
 http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 #EXTINF:-1,COM2
