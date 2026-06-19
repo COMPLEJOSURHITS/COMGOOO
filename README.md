@@ -27,6 +27,44 @@ http://104.236.118.56/bittchannel/bittchannel1/hls.m3u8
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255H-iIKMy43rOGuDQtEP45b/m3u8
 #EXTINF:-1,COM3
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
+#EXTINF:-1,KBS2  
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=kbs2
+#EXTINF:-1,JTBC 
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=jtbc
+#EXTINF:-1,tvN 
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tvn
+#EXTINF:-1,SBS 
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sbs
+#EXTINF:-1,MBC 
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=mbc
+#EXTINF:-1,NRK1 NORWAY
+http://185.19.191.4:8090/NRK1/index.m3u8
+#EXTINF:-1,Fifa + 
+http://2.26.80.23:8443/channel/14dce94b/index.m3u8?q=1781690407383
+#EXTINF:-1,FIFA+ EN
+http://2.26.80.23:8443/channel/7eb6f997/index.m3u8?q=1781690371842-7eb6f997
+#EXTINF:-1,FIFA+ FR
+http://2.26.80.23:8443/channel/n65748128/index.m3u8?q=1781690371842-n65748128
+#EXTINF:-1,FIFA+ DE
+http://2.26.80.23:8443/channel/n46068f94/index.m3u8?q=1781690371842-n46068f94
+#EXTINF:-1,FIFA+ Hispan
+http://2.26.80.23:8443/channel/74154899/index.m3u8?q=1781690371842-74154899
+#EXTINF:-1,FIFA+ IT
+http://2.26.80.23:8443/channel/22fb51bd/index.m3u8?q=1781690371842-22fb51bd
+#EXTINF:-1,FIFA+ PT
+http://2.26.80.23:8443/channel/739c2074/index.m3u8?q=1781690371842-739c2074
+#EXTINF:-1,FIFA+ ES
+http://2.26.80.23:8443/channel/33d35d57/index.m3u8?q=1781690371842-33d35d57
+#EXTINF:-1,FIFA+ US
+http://2.26.80.23:8443/channel/nb217563/index.m3u8?q=1781690371842-nb217563
+#EXTINF:-1,M+ FANZONE:
+http://31.43.191.125:8080/live/aaa/aaa/158457.m3u8
+#EXTINF:-1,YES Sport 1
+http://innovationtv.eu/live/052f88be36/f9978188b476/1828750.m3u8
+#EXTINF:-1,Telemundo 47 NY:
+https://ranapkbd.site/RANAPK33g/TVD/play.php?id=934984
+#EXTINF:-1,feed2
+https://vod-streaming.tycsports.com/734510-1_1781806124538/index.m3u8
 #EXTINF:-1,nina tv
 https://tv1.ninatv.cl/web/stream.m3u8
 #EXTINF:-1,Biit cinema
