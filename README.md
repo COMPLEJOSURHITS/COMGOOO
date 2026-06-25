@@ -19,6 +19,104 @@ http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274254.ts
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
 #EXTINF:-1,COM+2 RECOM
 http://38.7.207.20:901/live/tv6.m3u8
+#EXTINF:-1,mtvjp
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+#EXTINF:-1,COMSports
+http://190.119.176.186:8000/play/a098
+#EXTINF:-1,COMSports 2
+http://190.7.19.197:232/play/a09h
+#EXTINF:-1,COMSports +
+http://38.252.215.33:8000/play/a02i
+#EXTINF:-1,Telefe
+http://190.7.19.197:232/play/a059
+#EXTINF:-1,TV Pública
+http://190.7.19.197:232/play/a03c
+#EXTINF:-1,TyC Sports
+http://190.7.19.197:232/play/a04w
+#EXTINF:-1,TV Globo
+http://177.52.24.155:8000/play/a03x
+#EXTINF:-1,SporTV
+http://177.52.24.155:8000/play/a02u
+#EXTINF:-1,SBT
+http://79.127.243.211:14095/
+#EXTINF:-1,CazéTV (1)
+http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8
+#EXTINF:-1,CazéTV (2)
+http://201.151.118.136:1234/stream/mundial2026/cazetvop2/master.m3u8
+#EXTINF:-1,CazéTV (3)
+http://201.151.118.136:1234/stream/mundial2026/cazetvop3/master.m3u8
+#EXTINF:-1,TSN
+http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
+#EXTINF:-1,CTV
+http://stream.cammonitorplus.net/1712/index.m3u8
+#EXTINF:-1,CTV 2
+http://stream.cammonitorplus.net/1731/index.m3u8
+#EXTINF:-1,Chilevisión
+http://190.95.11.223:8000/play/066
+#EXTINF:-1,Caracol TV
+http://181.118.151.218:8000/play/a08k
+#EXTINF:-1,RCN
+http://181.118.151.218:8000/play/a01c
+#EXTINF:-1,Win Sports
+http://181.118.151.218:8000/play/a02u
+#EXTINF:-1,Teletica
+http://181.78.50.91:8000/play/a01t
+#EXTINF:-1,FOX Costa Rica
+http://181.78.50.91:8000/play/a06m
+#EXTINF:-1,FOX+ Costa Rica
+http://45.5.116.228:8000/play/a07l
+#EXTINF:-1,Teleamazonas
+http://45.185.163.75:8000/play/a00s
+#EXTINF:-1,Canal 4 TCS
+http://181.78.50.91:8000/play/a03i
+#EXTINF:-1,Tigo Sports Guatemala
+http://179.60.224.196:8000/play/a0i0
+#EXTINF:-1,FOX USA
+http://stream.cammonitorplus.net/1833/index.m3u8
+#EXTINF:-1,FS1 USA
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
+#EXTINF:-1,Telemundo
+https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
+#EXTINF:-1,Telexitos
+http://190.197.41.183/TELEXITOS/playlist.m3u8
+#EXTINF:-1,Canal 3
+http://190.83.9.222:8000/play/ca102
+#EXTINF:-1,Canal 7
+http://179.60.224.196:8000/play/a0ij
+#EXTINF:-1,Canal 11
+http://190.83.9.222:8000/play/ca104
+#EXTINF:-1,Canal 13
+http://190.83.9.222:8000/play/ca105
+#EXTINF:-1,Telecadena 4/7
+http://181.78.50.91:8000/play/a04u
+#EXTINF:-1,TSi
+http://177.10.184.193:8000/play/a0fk
+#EXTINF:-1,Canal 5 Honduras
+http://177.10.184.193:8000/play/a0e7
+#EXTINF:-1,Canal 5 México
+http://187.249.120.128:8888/play/a0ll
+#EXTINF:-1,Azteca 7
+http://38.65.175.86:8000/play/a0la
+#EXTINF:-1,Azteca Deportes Network
+http://38.194.226.190:8000/play/a02r
+#EXTINF:-1,TUDN México
+http://179.60.224.196:8000/play/a0f4
+#EXTINF:-1,NU9VE
+http://187.249.120.128:8888/play/a0nw
+#EXTINF:-1,Canal 10
+http://177.10.184.193:8000/play/a0g5
+#EXTINF:-1,Trece
+http://45.170.130.224:8000/play/a050
+#EXTINF:-1,GEN
+http://200.85.51.158:64333/play/a001
+#EXTINF:-1,Unicanal
+http://45.170.130.224:8000/play/a04y
+#EXTINF:-1,POPU TV
+http://24.152.42.29:8000/play/a09l
+#EXTINF:-1,América Televisión
+http://45.5.57.58:8000/play/a05r
+#EXTINF:-1,Televen
+http://38.188.48.83:8000/play/a0lk
 #EXTINF:-1,TV
 rtmp://live.cslatv.com:4032/live/retfox67w
 #EXTINF:-1,NICKMUSICHD 
