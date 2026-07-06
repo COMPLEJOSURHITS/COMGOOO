@@ -13,8 +13,6 @@ http://tv.comgo.com.ar:901/live/tv6.m3u8
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
 #EXTINF:-1,COMHITS TVGO
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
-#EXTINF:-1,COMHITS  CHILE 
-http://38.7.207.20:901/live/tv1.m3u8
 #EXTINF:-1,COMCLUB MARIBEL 
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEUaDc/m3u8
 #EXTINF:-1,COMCLUB tvgo
@@ -25,8 +23,6 @@ https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274254.ts
 #EXTINF:-1,COM+ ReCOM tvgo
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
-#EXTINF:-1,COM+2 RECOM virjo
-http://38.7.207.20:901/live/tv6.m3u8
 #EXTINF:-1,mtvjp
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
 #EXTINF:-1,COMSports
