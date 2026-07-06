@@ -2,6 +2,14 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1,COMHITS
+http://tv.comgo.com.ar:901/live/tv1.m3u8
+#EXTINF:-1,COMCLUB
+http://tv.comgo.com.ar:901/live/tv2.m3u8
+#EXTINF:-1,COMLIVE
+http://tv.comgo.com.ar:901/live/tv3.m3u8
+#EXTINF:-1,COM+
+http://tv.comgo.com.ar:901/live/tv6.m3u8
+#EXTINF:-1,COMHITS
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
 #EXTINF:-1,COMHITS
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
