@@ -11,6 +11,8 @@ http://tv.comgo.com.ar:901/live/tv3.m3u8
 http://tv.comgo.com.ar:901/live/tv6.m3u8
 #EXTINF:-1,COMHITS MARIBEL 
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
+#EXTINF:-1,TV
+rtmp://live.cslatv.com:4032/live/retfox67w
 #EXTINF:-1,COMHITS TVGO
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
 #EXTINF:-1,COMCLUB MARIBEL 
