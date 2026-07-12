@@ -2,13 +2,13 @@
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
 #EXTINF:-1,COMHITS nuevo
-http://tv.comgo.com.ar:901/live/tv1.m3u8
+https://tv.comgo.com.ar/comhits/index.m3u8
 #EXTINF:-1,COMCLUB nuevo 
-http://tv.comgo.com.ar:901/live/tv2.m3u8
+https://tv.comgo.com.ar/comclub/index.m3u8
 #EXTINF:-1,COMLIVE nuevo
-http://tv.comgo.com.ar:901/live/tv3.m3u8
+https://tv.comgo.com.ar/comlive/index.m3u8
 #EXTINF:-1,COM+ tvgo
-http://tv.comgo.com.ar:901/live/tv6.m3u8
+https://tv.comgo.com.ar/complus/index.m3u8
 #EXTINF:-1,COMHITS MARIBEL 
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
 #EXTINF:-1,TV
