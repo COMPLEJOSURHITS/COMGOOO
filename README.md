@@ -11,6 +11,8 @@ http://tv.comgo.com.ar/comlive/index.m3u8
 http://tv.comgo.com.ar/complus/index.m3u8
 #EXTINF:-1,COMHITS MARIBEL 
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
+#EXTINF:-1,Tv2
+https://stream.xlmedia.lat/live/c67es/cuarentaTV/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,TV
 rtmp://live.cslatv.com:4032/live/retfox67w
 #EXTINF:-1,COMHITS TVGO
