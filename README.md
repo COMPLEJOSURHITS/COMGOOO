@@ -1,14 +1,50 @@
 
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 
-#EXTINF:-1,COMHITS nuevo
+#EXTINF:-1,COMHIT
 http://tv.comgo.com.ar/comhits/mpegts?token=TJo0LdYnezQhv3
-#EXTINF:-1,COMCLUB nuevo 
+#EXTINF:-1,COMCLUB
 http://tv.comgo.com.ar/comclub/mpegts?token=TJo0LdYnezQhv3
-#EXTINF:-1,COMLIVE nuevo
+#EXTINF:-1,COMLIe
 http://tv.comgo.com.ar/comlive/mpegts?token=TJo0LdYnezQhv3
-#EXTINF:-1,COM+ tvgo
+#EXTINF:-1,COM+
 http://tv.comgo.com.ar/complus/mpegts?token=TJo0LdYnezQhv3
+#EXTINF:-1,WARZONE
+https://cdn.mic.net.pe/WARZONE/index.m3u8
+#EXTINF:-1,VIBRA_JUNIOR
+https://cdn.mic.net.pe/VIBRA_JUNIOR/index.m3u8
+#EXTINF:-1,VIBRA_SERIES
+https://cdn.mic.net.pe/VIBRA_SERIES/index.m3u8
+#EXTINF:-1,VIBRA_TERROR
+https://cdn.mic.net.pe/VIBRA_TERROR/index.m3u8
+#EXTINF:-1,RETROX
+https://cdn.mic.net.pe/RETROX/index.m3u8
+#EXTINF:-1,TV_CARIOCA
+https://cdn.mic.net.pe/TV_CARIOCA/index.m3u8
+#EXTINF:-1,FMH_ANIMOTION
+https://cdn.mic.net.pe/FMH_ANIMOTION/index.m3u8
+#EXTINF:-1,FMH_REWIND
+https://cdn.mic.net.pe/FMH_REWIND/index.m3u8
+#EXTINF:-1,FMH_ATLAS
+https://cdn.mic.net.pe/FMH_ATLAS/index.m3u8
+#EXTINF:-1,FMH_KIZZI
+https://cdn.mic.net.pe/FMH_KIZZI/index.m3u8
+#EXTINF:-1,ACOCINA
+https://cdn.mic.net.pe/ACOCINA/index.m3u8
+#EXTINF:-1,FMH_ANIMOTION
+https://cdn.mic.net.pe/FMH_ANIMOTION/index.m3u8
+#EXTINF:-1,FMH_REWIND
+https://cdn.mic.net.pe/FMH_REWIND/index.m3u8
+#EXTINF:-1,FMH_ATLAS
+https://cdn.mic.net.pe/FMH_ATLAS/index.m3u8
+#EXTINF:-1,FMH_KIZZI
+https://cdn.mic.net.pe/FMH_KIZZI/index.m3u8 
+#EXTINF:-1,FMH_KIDS
+https://cdn.mic.net.pe/FMH_KIDS/index.m3u8
+#EXTINF:-1,FMH_FAMILY
+https://cdn.mic.net.pe/FMH_FAMILY/index.m3u8
+#EXTINF:-1,FMH_MOVIES
+https://cdn.mic.net.pe/FMH_MOVIES/index.m3u8
 #EXTINF:-1,COMHITS MARIBEL 
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
 #EXTINF:-1,Tv2
