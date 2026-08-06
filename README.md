@@ -9,6 +9,8 @@ http://tv.comgo.com.ar/comclub/mpegts?token=TJo0LdYnezQhv3
 http://tv.comgo.com.ar/comlive/mpegts?token=TJo0LdYnezQhv3
 #EXTINF:-1,COM+
 http://tv.comgo.com.ar/complus/mpegts?token=TJo0LdYnezQhv3
+#EXTINF:-1,net channel  peru 
+https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1,WARZONE
 https://cdn.mic.net.pe/WARZONE/index.m3u8
 #EXTINF:-1,VIBRA_JUNIOR
