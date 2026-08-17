@@ -1,7 +1,6 @@
 
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
-
-#EXTINF:-1,COMHIT
+#EXTINF:-1,COMHITS
 http://tv.comgo.com.ar/comhits/mpegts?token=TJo0LdYnezQhv3
 #EXTINF:-1,COMCLUB
 http://tv.comgo.com.ar/comclub/mpegts?token=TJo0LdYnezQhv3
