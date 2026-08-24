@@ -1,11 +1,11 @@
 
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTINF:-1,COMHITS
-http://tv.comgo.com.ar/comhits/mpegts?token=TJo0LdYnezQhv3
+https://cdn.bittchannel.com:443/play/pdzswTA69ckEfnhjzyNBGh4mbznsYcFqBkTEotv6YK8/m3u8
 #EXTINF:-1,COMCLUB
-http://tv.comgo.com.ar/comclub/mpegts?token=TJo0LdYnezQhv3
+https://cdn.bittchannel.com:443/play/pdzswTA69ckEfnhjzyNBGtpDSDYkmXpHubbXPRjXRpo/m3u8
 #EXTINF:-1,COMLIe
-http://tv.comgo.com.ar/comlive/mpegts?token=TJo0LdYnezQhv3
+https://cdn.bittchannel.com:443/play/pdzswTA69ckEfnhjzyNBGk_A2iLr1UfuBLdhJsoHwNw/m3u8
 #EXTINF:-1,COM+
 http://tv.comgo.com.ar/complus/mpegts?token=TJo0LdYnezQhv3
 #EXTINF:-1,net channel  peru 
@@ -47,23 +47,8 @@ https://cdn.mic.net.pe/FMH_FAMILY/index.m3u8
 #EXTINF:-1,FMH_MOVIES
 https://cdn.mic.net.pe/FMH_MOVIES/index.m3u8
 #EXTINF:-1,COMHITS MARIBEL 
-https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
 #EXTINF:-1,Tv2
 https://stream.xlmedia.lat/live/c67es/cuarentaTV/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1,TV
-rtmp://live.cslatv.com:4032/live/retfox67w
-#EXTINF:-1,COMHITS TVGO
-http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
-#EXTINF:-1,COMCLUB MARIBEL 
-https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEUaDc/m3u8
-#EXTINF:-1,COMCLUB tvgo
-http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274253.ts
-#EXTINF:-1,COMlive MARIBEL 
-https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
-#EXTINF:-1,COMlive TVGO
-http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274254.ts
-#EXTINF:-1,COM+ ReCOM tvgo
-http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
 #EXTINF:-1,mtvjp
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
 #EXTINF:-1,COMSports
