@@ -4,10 +4,8 @@
 https://cdn.bittchannel.com:443/play/pdzswTA69ckEfnhjzyNBGh4mbznsYcFqBkTEotv6YK8/m3u8
 #EXTINF:-1,COMCLUB
 https://cdn.bittchannel.com:443/play/pdzswTA69ckEfnhjzyNBGtpDSDYkmXpHubbXPRjXRpo/m3u8
-#EXTINF:-1,COMLIe
+#EXTINF:-1,COMLIVE
 https://cdn.bittchannel.com:443/play/pdzswTA69ckEfnhjzyNBGk_A2iLr1UfuBLdhJsoHwNw/m3u8
-#EXTINF:-1,COM+
-http://tv.comgo.com.ar/complus/mpegts?token=TJo0LdYnezQhv3
 #EXTINF:-1,net channel  peru 
 https://media.streambrothers.com:19360/8158/8158.m3u8
 #EXTINF:-1,WARZONE
