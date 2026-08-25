@@ -46,9 +46,8 @@ https://cdn.mic.net.pe/FMH_KIDS/index.m3u8
 https://cdn.mic.net.pe/FMH_FAMILY/index.m3u8
 #EXTINF:-1,FMH_MOVIES
 https://cdn.mic.net.pe/FMH_MOVIES/index.m3u8
-#EXTINF:-1,COMHITS MARIBEL 
-#EXTINF:-1,Tv2
-https://stream.xlmedia.lat/live/c67es/cuarentaTV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1,COMHITS MARIBEL
+http://ha-ip.f5.si:9394/stream/74.m3u8
 #EXTINF:-1,mtvjp
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
 #EXTINF:-1,COMSports
