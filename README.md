@@ -1,5 +1,5 @@
-
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
+
 #EXTINF:-1,COMHITS
 https://cdn.bittchannel.com:443/play/pdzswTA69ckEfnhjzyNBGh4mbznsYcFqBkTEotv6YK8/m3u8
 #EXTINF:-1,COMCLUB
@@ -46,7 +46,7 @@ https://cdn.mic.net.pe/FMH_FAMILY/index.m3u8
 https://cdn.mic.net.pe/FMH_MOVIES/index.m3u8
 #EXTINF:-1,COMHITS MARIBEL
 http://ha-ip.f5.si:9394/stream/74.m3u8
-EXTINF:-1,mx
+#EXTINF:-1,mx
 http://187.212.203.179:1976/stream/channelid/465466338?profile=pass
 #EXTINF:-1,mtvjp
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
